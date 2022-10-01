@@ -13,7 +13,7 @@ The popular dataset is a collection of 1599 observations, which is easily found 
 
 
 <p float="left">
-  <img src="C:\Users\39388\Desktop\R\Wine_quality_analysis (applied linears models)\Project\Progetto_vino\dataset1.png" width="460" /> 
+  <img src="dataset1.png" width="460" />
   <img src="dataset2.png" width="500" /> 
 </p>
 
