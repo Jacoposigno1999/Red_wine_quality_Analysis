@@ -14,7 +14,7 @@ The popular dataset is a collection of 1599 observations, which is easily found 
 
 <p float="left">
   <img src="dataset1.png" width="450" />
-  <img src="dataset2.png" width="490" /> 
+  <img src="dataset2.png" width="450" /> 
 </p>
 
 
